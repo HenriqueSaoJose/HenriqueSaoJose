@@ -1,7 +1,7 @@
 <h1 aling:center>Henrique Andrade<h1>
 <div>
   <a href="https://github.com/HAndradeSj">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=HAndradeSj&show_icons=False&theme= radicalcommits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=HAndradeSj&show_icons=False&theme=radicalcommits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAndradeSj&layout=compact&langs_count=7&theme=radical"/>
 </div> 
 <div style="display: inline_block"><br>
