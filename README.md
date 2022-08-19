@@ -1,4 +1,4 @@
-##--Henrique Andrade--
+--Henrique Andrade--
 
 <div>
   <a href="https://github.com/HAndradeSj">
