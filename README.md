@@ -1,5 +1,5 @@
 <h1 aling:center>Henrique Andrade<h1>
-<div align="left"margin-top="100px">
+<div align="left">
   <a href="https://github.com/HAndradeSJ">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HAndradeSJ&show_icons=true&theme=midnight-purple"commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAndradeSJ&layout=compact&langs_count=7&theme=midnight-purple"/>
