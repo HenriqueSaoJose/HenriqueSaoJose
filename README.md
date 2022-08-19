@@ -1,9 +1,21 @@
 <h1 aling:center>Henrique Andrade<h1>
-<div align="left" display="inline_block">
-  <a href="https://github.com/HAndradeSJ">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=HAndradeSJ&show_icons=true&theme=midnight-purple"commits=true&count_private=true"/>
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAndradeSJ&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+<a href="https://github.com/HAndradeSJ/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HAndradeJS&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HA&repo=convoychat" />
+</a>
+
+
+
+ <a href="https://github.com/rafaballerini">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?  username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+  <a>
+  < img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <a/>
+  
+  
 <div style="display:inline_block"><br>
   <img align="center" alt="hik js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="hik-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
