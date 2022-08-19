@@ -1,8 +1,8 @@
 <h1 aling:center>Henrique Andrade<h1>
 <div align="left" display="inline_block">
   <a href="https://github.com/HAndradeSJ">
-  <img  align="center"height="170em" src="https://github-readme-stats.vercel.app/api?username=HAndradeSJ&show_icons=true&theme=midnight-purple"commits=true&count_private=true"/>
-  <img  align="center"height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAndradeSJ&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=HAndradeSJ&show_icons=true&theme=midnight-purple"commits=true&count_private=true"/>
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAndradeSJ&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display:inline_block"><br>
   <img align="center" alt="hik js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
