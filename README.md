@@ -1,9 +1,9 @@
 <h1 aling:center>Henrique Andrade<h1>
  <a href="https://github.com/HAndradeSJ">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HAndradeSJ&show_icons=true&theme=midnight-purple"commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=HAndradeSJ&show_icons=true&theme=midnight-purple"commits=true&count_private=true"/>
   </a>
   <a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAndradeSJ&layout=compact&langs_count=7&theme=midnight-purple"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAndradeSJ&layout=compact&langs_count=7&theme=midnight-purple"/>
   </a>
   
 <div style="display:inline_block"><br>
