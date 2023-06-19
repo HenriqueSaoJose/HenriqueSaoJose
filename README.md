@@ -1,4 +1,4 @@
-<h1 aling="center">Henrique Andrade<h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#212F3D&height=120&section=header"/>
  <a href="https://github.com/HAndradeSJ">
     <img height="150rem"src="https://github-readme-stats.vercel.app/api?username=HAndradeSJ&show_icons=true&theme=midnight-purple"commits=true&count_private=true"/>
   </a>
