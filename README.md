@@ -6,7 +6,7 @@
 
 &nbsp;
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HAndradeSJ&bg_color=1C2833&color=FDFEFE&line=FDFEFE&point=F1C40F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HAndradeSJ&bg_color=1C2833&color=FDFEFE&line=FDFEFE&point=F1C40F&area=falsee&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 &nbsp;
 
