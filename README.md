@@ -20,7 +20,7 @@
 <div align="left"> 
 <a href="https://instagram.com/henri.sj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-2E4053?style=for-the-badge&logo=instagram&logoColor=F1C40F"</a>
 <a href = "mailto:henriqueandradesj@outlook.com"> <img src="https://img.shields.io/badge/-Gmail-2E4053?style=for-the-badge&logo=gmail&logoColor=F1C40F" target="_blank"></a>
-<a href="https://www.linkedin.com/in/carolbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-2E4053?style=for-the-badge&logo=linkedin&logoColor=F1C40F" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/henrique-andrade-3b5b4122b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-2E4053?style=for-the-badge&logo=linkedin&logoColor=F1C40F" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
 &nbsp;
