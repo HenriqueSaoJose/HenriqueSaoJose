@@ -24,14 +24,17 @@
 
 &nbsp;
 
-### Main skills:
+
+<h1 style="color: #FDFEFE;">Main Skills</h1>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1C2833?style=for-the-badge&logo=javascript&labelColor=1C2833)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-1C2833?style=for-the-badge&logo=react&labelColor=1C2833)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-1C2833?style=for-the-badge&logo=node.js&labelColor=1C2833&textColor=1C2833)&nbsp;
 
 
 
-### Studying in this moment:
+<h1 style="color: #FDFEFE;">Studying in this moment</h1>
+
 ![Typescript](https://img.shields.io/badge/-JavaScript-1C2833?style=for-the-badge&logo=javascript&labelColor=1C2833&textColor=0D1117)&nbsp;
 ![Next JS](https://img.shields.io/badge/Next-1C2833?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-1C2833.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC)
