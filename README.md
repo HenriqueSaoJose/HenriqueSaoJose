@@ -39,7 +39,7 @@
 ![Next JS](https://img.shields.io/badge/Next-1C2833?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-1C2833.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC)
 ![React Native](https://img.shields.io/badge/react_native-1C2833.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/Java-1C2833?style=for-the-badge&logo=node.js&labelColor=1C2833&textColor=1C2833)&nbsp;
+![Java](https://img.shields.io/badge/Java-1C2833?style=for-the-badge&logo=Java&labelColor=1C2833&textColor=1C2833)&nbsp;
 
 
 
