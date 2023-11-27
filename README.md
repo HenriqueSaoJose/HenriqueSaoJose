@@ -41,7 +41,7 @@
 
 ![Next JS](https://img.shields.io/badge/Next-1C2833?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-1C2833.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-1C2833.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 
