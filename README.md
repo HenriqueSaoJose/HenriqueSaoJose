@@ -2,7 +2,7 @@
 
 &nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FDFEFE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Henrique+Andrade;I'm+18+years+old;I'm+Frontend+Developer;Be+Welcome!+:%29)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FDFEFE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Henrique+Andrade;I'm+19+years+old;I'm+Frontend+Developer;Be+Welcome!+:%29)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 &nbsp;
 
