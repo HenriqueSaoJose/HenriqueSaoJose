@@ -40,7 +40,7 @@
 <h1 style="color: #FDFEFE;">Studying in this moment</h1>
 
 ![Java](https://img.shields.io/badge/java-1C2833.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-1C2833.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-1C2833?style=for-the-badge&logo=angular&logoColor=white)
 
 
 
