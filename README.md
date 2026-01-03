@@ -10,7 +10,7 @@
 
 &nbsp;
 <div align="left">  
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HenriqueSaoJose&show_icons=true&count_private=true&hide_border=true&title_color=FDFEFE&icon_color=F1C40F&text_color=FDFEFE&bg_color=1C2833" alt="Caroline Barbosa github stats" /> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HenriqueSaoJose&show_icons=true&count_private=true&hide_border=true&title_color=FDFEFE&icon_color=F1C40F&text_color=FDFEFE&bg_color=1C2833" alt="" /> 
   <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSaoJose&layout=compact&hide_border=true&title_color=FDFEFE&text_color=FDFEFE&bg_color=1C2833"/>
 </div>
 
