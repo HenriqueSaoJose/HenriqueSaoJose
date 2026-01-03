@@ -9,8 +9,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenriqueSaoJose&bg_color=1c2833&color=f1c40f&line=f1c40f&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 &nbsp;
-<div align="left">  
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HenriqueSaoJose&show_icons=true&count_private=true&hide_border=true&title_color=FDFEFE&icon_color=F1C40F&text_color=FDFEFE&bg_color=1C2833" alt="" /> 
+<div align="left">
+  (http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={HenriqueSaoJose}&theme={theme_name})
   <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSaoJose&layout=compact&hide_border=true&title_color=FDFEFE&text_color=FDFEFE&bg_color=1C2833"/>
 </div>
 
