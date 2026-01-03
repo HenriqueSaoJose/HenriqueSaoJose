@@ -10,7 +10,7 @@
 
 &nbsp;
 <div align="left">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={HenriqueSaoJose}&theme={theme_name})
+  [!(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={HenriqueSaoJose}&theme={theme_name})]
   <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSaoJose&layout=compact&hide_border=true&title_color=FDFEFE&text_color=FDFEFE&bg_color=1C2833"/>
 </div>
 
